@@ -1,0 +1,2 @@
+# meri-monitoring-script
+Ubuntu
